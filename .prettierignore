@@ -1,0 +1,8 @@
+node_modules
+.docusaurus
+*.log
+*.env
+*.yml
+*.pnp*
+.vscode
+.yarn/
